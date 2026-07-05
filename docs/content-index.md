@@ -37,4 +37,3 @@ This index organizes the repo into a front door for predictive reliability, anom
 ## Shared Direction
 
 Use the same section structure as the other core repos so predictive content stays easy to extend and reuse.
-

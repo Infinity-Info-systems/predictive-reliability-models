@@ -19,6 +19,14 @@ This repository helps teams define and manage:
 - reliability dashboards
 - health review workflows
 
+## How To Use This Repo
+
+1. Read the framework overview and strategy.
+2. Review the anomaly detection and operational intelligence docs.
+3. Use the scoring model and risk dashboard to prioritize action.
+4. Apply the review templates to operational review cycles.
+5. Extend the research and evidence notes as the model matures.
+
 ## Core Content
 
 - [Predictive Reliability Playbook](docs/predictive-reliability-playbook.md)
@@ -58,10 +66,3 @@ This repository helps teams define and manage:
 - [AI-Driven Observability Framework](../ai-driven-observability-framework/README.md)
 - [SLO-Driven Cloud Architecture](../slo-driven-cloud-architecture/README.md)
 - [SRE Reliability Models](../sre-reliability-models/README.md)
-
-## Start Here
-
-1. Read the framework overview.
-2. Review the predictive reliability strategy and anomaly detection model.
-3. Use the templates and dashboards to operationalize the model.
-4. Expand research and evidence next.
