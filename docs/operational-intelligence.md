@@ -11,6 +11,8 @@ Operational intelligence turns signals into decision support by combining teleme
 - service impact
 - confidence scoring
 - response recommendations
+- context enrichment
+- decision traceability
 
 ## Review Questions
 
@@ -25,3 +27,7 @@ Operational intelligence turns signals into decision support by combining teleme
 - response guidance
 - context mapping
 - decision logs
+
+## Practical Value
+
+Operational intelligence should explain why an alert matters and what should happen next.

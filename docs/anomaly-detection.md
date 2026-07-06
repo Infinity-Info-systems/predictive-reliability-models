@@ -11,6 +11,7 @@ Anomaly detection identifies unusual behavior in service metrics, logs, traces, 
 - throughput changes
 - saturation trends
 - cost anomalies
+- behavior drift
 
 ## Questions To Ask
 
@@ -25,3 +26,7 @@ Anomaly detection identifies unusual behavior in service metrics, logs, traces, 
 - alert history
 - threshold settings
 - validation notes
+
+## Use
+
+Use this page to keep anomaly logic tied to real service behavior instead of isolated metric noise.

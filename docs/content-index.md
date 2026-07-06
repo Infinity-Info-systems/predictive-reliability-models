@@ -3,6 +3,7 @@
 ## Purpose
 
 This index organizes the repo into a front door for predictive reliability, anomaly detection, and risk scoring.
+Use it to move from early-warning strategy to the exact artifact needed for review or response.
 
 ## Entry Points
 
@@ -34,6 +35,17 @@ This index organizes the repo into a front door for predictive reliability, anom
 - [Research Roadmap](../evidence/research-roadmap.md)
 - [Research Links](../publications/research-links.md)
 
+## Reading Order
+
+1. Framework overview
+2. Predictive reliability strategy
+3. Anomaly detection
+4. Operational intelligence
+5. Reliability risk scoring
+6. Self-healing concepts
+7. Dashboard and review templates
+
 ## Shared Direction
 
 Use the same section structure as the other core repos so predictive content stays easy to extend and reuse.
+Keep the language readable for operations teams while still useful for leadership review.

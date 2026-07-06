@@ -10,6 +10,7 @@ Self-healing concepts describe how safe, automated response can reduce the time 
 - shift traffic away from degraded paths
 - scale capacity when thresholds are breached
 - open or enrich incidents automatically
+- rollback when unsafe conditions appear
 
 ## Operating Rules
 
@@ -23,3 +24,7 @@ Self-healing concepts describe how safe, automated response can reduce the time 
 - rollback notes
 - response outcomes
 - safety controls
+
+## Use
+
+Self-healing should reduce response time without creating new operational risk.

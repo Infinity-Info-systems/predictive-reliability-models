@@ -11,6 +11,7 @@ Reliability risk scoring helps teams rank early warning signals by the likelihoo
 - confidence
 - recurrence potential
 - response urgency
+- service criticality
 
 ## Example Scale
 
@@ -18,6 +19,10 @@ Reliability risk scoring helps teams rank early warning signals by the likelihoo
 - medium
 - high
 - critical
+
+## Use
+
+Use this scoring model to prioritize what deserves human attention first and what can be monitored further.
 
 ## How To Use
 

@@ -6,6 +6,11 @@
 - trend by service
 - response status
 - unresolved items
+- recurring signal patterns
+
+## Dashboard Intent
+
+Use the dashboard to support review meetings and keep the reliability learning loop visible.
 
 ## Use
 

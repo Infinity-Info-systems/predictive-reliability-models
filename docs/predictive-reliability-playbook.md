@@ -51,6 +51,11 @@ Use this playbook to connect anomalies, scoring, alerting, and response into one
 - define a response owner for each signal class
 - connect response steps to dashboards and templates
 - keep a learning log for model tuning
+- separate validated signals from exploratory ones
+
+## Operating Outcome
+
+The playbook should help the team move from signal to decision without adding avoidable friction.
 
 ## Related Artifacts
 

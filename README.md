@@ -5,6 +5,7 @@
 This repository contains predictive reliability models for anticipating incidents, scoring risk, and improving operational intelligence.
 
 It focuses on anomaly detection, predictive alerting, reliability scoring, and operational health reviews.
+It is intended to help teams act earlier, with better context, before incidents become material.
 
 ## Why It Matters
 
@@ -18,6 +19,17 @@ This repository helps teams define and manage:
 - operational intelligence
 - reliability dashboards
 - health review workflows
+- signal validation
+- response learning loops
+- reliability decision support
+
+## Content Model
+
+This repository works best when the pages are grouped into three layers:
+
+- playbook and strategy pages
+- models and dashboards
+- review templates and research notes
 
 ## How To Use This Repo
 
@@ -26,6 +38,7 @@ This repository helps teams define and manage:
 3. Use the scoring model and risk dashboard to prioritize action.
 4. Apply the review templates to operational review cycles.
 5. Extend the research and evidence notes as the model matures.
+6. Keep model language aligned across all artifacts.
 
 ## Core Content
 
@@ -59,6 +72,10 @@ This repository helps teams define and manage:
 - [Bibliography](references/bibliography.md)
 - [Research Roadmap](evidence/research-roadmap.md)
 - [Research Links](publications/research-links.md)
+
+## Operating Principle
+
+Predictive reliability should improve decision quality, not just generate more alerts.
 
 ## Ecosystem Links
 

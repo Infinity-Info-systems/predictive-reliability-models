@@ -11,6 +11,8 @@ The strategy defines how the organization will identify early warning signals, s
 - response discipline
 - learning loops
 - automation where safe
+- alert precision
+- model validation
 
 ## Strategy Questions
 
@@ -25,3 +27,7 @@ The strategy defines how the organization will identify early warning signals, s
 - response patterns
 - learning plan
 - review cadence
+
+## Strategy Rule
+
+If the model cannot improve action quality, it should not be expanded just because it is technically interesting.

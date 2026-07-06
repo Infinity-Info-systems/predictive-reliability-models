@@ -3,6 +3,7 @@
 ## What This Repository Does
 
 This repository provides a practical model for predicting reliability issues before they turn into serious operational events.
+It gives teams a structured way to turn signals into action.
 
 ## What It Covers
 
@@ -27,6 +28,11 @@ This repository provides a practical model for predicting reliability issues bef
 - risk can be ranked before incidents grow
 - operational signals are reviewed consistently
 - model outputs are validated against real events
+- false positives are tracked and reduced over time
+
+## Practical Use
+
+Use this framework when you want an early-warning system that is still grounded in operational reality.
 
 ## Outputs
 
