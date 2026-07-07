@@ -4,6 +4,7 @@
 
 This index organizes the repo into a front door for predictive reliability, anomaly detection, and risk scoring.
 Use it to move from early-warning strategy to the exact artifact needed for review or response.
+The order is arranged so readers move from strategy into models and then into review artifacts.
 
 ## Entry Points
 
@@ -49,3 +50,4 @@ Use it to move from early-warning strategy to the exact artifact needed for revi
 
 Use the same section structure as the other core repos so predictive content stays easy to extend and reuse.
 Keep the language readable for operations teams while still useful for leadership review.
+If a page does not help decide, prioritize, or validate action, move that detail into the most relevant model or template.

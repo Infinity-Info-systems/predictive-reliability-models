@@ -4,6 +4,7 @@
 
 This repository provides a practical model for predicting reliability issues before they turn into serious operational events.
 It gives teams a structured way to turn signals into action.
+The framework is designed to reduce alert noise and improve the quality of operational decisions.
 
 ## What It Covers
 
@@ -29,6 +30,15 @@ It gives teams a structured way to turn signals into action.
 - operational signals are reviewed consistently
 - model outputs are validated against real events
 - false positives are tracked and reduced over time
+
+## How To Read It
+
+Start with the strategy page, then move into the scoring and alerting models.
+That sequence keeps the discussion focused on decisions first and outputs second.
+
+## Result
+
+When the framework is used well, teams spend less time sorting noise and more time acting on the signals that matter.
 
 ## Practical Use
 
