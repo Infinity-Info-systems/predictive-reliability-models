@@ -6,6 +6,13 @@ This repository provides a practical model for predicting reliability issues bef
 It gives teams a structured way to turn signals into action.
 The framework is designed to reduce alert noise and improve the quality of operational decisions.
 
+## Predictive Flow
+
+```mermaid
+flowchart LR
+    A["Signal"] --> B["Score"] --> C["Prioritize"] --> D["Respond"] --> E["Validate"] --> F["Learn"]
+```
+
 ## What It Covers
 
 - anomaly detection
@@ -51,3 +58,17 @@ Use this framework when you want an early-warning system that is still grounded 
 - alerting model
 - review templates
 - dashboard views
+
+## Predictive Layers
+
+| Layer | Question | Artifact |
+| --- | --- | --- |
+| Signal | What changed? | Anomaly detection |
+| Score | How risky is it? | Reliability risk model |
+| Decision | What should happen now? | Predictive alerting model |
+| Response | Who acts? | Operational health review |
+| Learning | What improves next? | Research roadmap |
+
+## Decision Rule
+
+If a model output does not improve action quality, it should not become a first-class operational signal.

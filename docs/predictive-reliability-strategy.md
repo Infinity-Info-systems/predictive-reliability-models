@@ -28,6 +28,15 @@ The strategy defines how the organization will identify early warning signals, s
 - learning plan
 - review cadence
 
+## Strategy Table
+
+| Theme | What It Controls | Typical Output |
+| --- | --- | --- |
+| Signal quality | Which inputs are trusted | Prioritized signal list |
+| Prediction confidence | How much confidence to place in the model | Confidence threshold |
+| Response discipline | Who should act and when | Response pattern |
+| Learning loop | How the model improves | Review cadence |
+
 ## Strategy Rule
 
 If the model cannot improve action quality, it should not be expanded just because it is technically interesting.
