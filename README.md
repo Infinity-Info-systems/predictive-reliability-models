@@ -98,3 +98,9 @@ It helps answer:
 - What is likely to fail next?
 - What should we watch more closely?
 - What can we safely automate or defer?
+
+## Codebase Direction
+
+- use `src/` for the signal registry and summary logic
+- keep the Markdown docs as the strategy and explanation layer
+- use the app route as the executable view for predictive signals
