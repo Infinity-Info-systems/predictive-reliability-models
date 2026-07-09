@@ -104,3 +104,8 @@ It helps answer:
 - use `src/` for the signal registry and summary logic
 - keep the Markdown docs as the strategy and explanation layer
 - use the app route as the executable view for predictive signals
+
+## Code Direction
+
+This repo now includes a stronger typed signal report layer in `src/` so predictive signals can be reused in tools, dashboards, or the app route.
+The code layer mirrors the signal, score, prioritize, respond, validate, and learn flow described in the framework pages.
